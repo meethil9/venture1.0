@@ -1,2 +1,2 @@
-# venture1.0
+# venture 1.0
 Computer Science Course
